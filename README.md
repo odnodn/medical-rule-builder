@@ -1,6 +1,6 @@
 # medical-rule-builder
 
-Demo available at https://jugu.github.io/medical-rule-builder/
+Demo available at https://odn.github.io/medical-rule-builder/
 
 To run the code locally
 
